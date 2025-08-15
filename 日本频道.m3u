@@ -1,40 +1,138 @@
-NHK G,https://mt01.utako.moe/NHK_G/index.m3u8
-NHK E,https://mt01.utako.moe/NHK_E/index.m3u8
-NTV,https://mt01.utako.moe/Nippon_TV/index.m3u8
-TBS,https://mt01.utako.moe/TBS/index.m3u8
-Fuji TV,https://mt01.utako.moe/Fuji_TV/index.m3u8
-TV Asahi,https://mt01.utako.moe/TV_Asahi/index.m3u8
-TV Tokyo,https://mt01.utako.moe/TV_Tokyo/index.m3u8
-TOKYO MX1,https://mt01.utako.moe/Tokyo_MX1/index.m3u8
-TOKYO MX2,https://mt01.utako.moe/Tokyo_MX2/index.m3u8
-MBS,https://mt01.utako.moe/mbs/index.m3u8
-ABC,https://mt01.utako.moe/abc/index.m3u8
-TV Osaka,https://mt01.utako.moe/tvo/index.m3u8
-Kansai TV,https://mt01.utako.moe/kansaitv/index.m3u8
-ytv,https://mt01.utako.moe/ytv/index.m3u8
-KBS,https://mt01.utako.moe/kbs/index.m3u8
-SUN,https://mt01.utako.moe/suntv/index.m3u8
-NHK BS,https://mt01.utako.moe/NHK_BS/index.m3u8
-BS NTV,https://mt01.utako.moe/bsntv/index.m3u8
-BS Asahi,https://mt01.utako.moe/bsasahi/index.m3u8
-BS TBS,https://mt01.utako.moe/bstbs/index.m3u8
-BS TV Tokyo,https://mt01.utako.moe/bstvtokyo/index.m3u8
-BS Fuji,https://mt01.utako.moe/bsfuji/index.m3u8
-BS10,https://mt01.utako.moe/bs10/index.m3u8
-BS11,https://mt01.utako.moe/BS11/index.m3u8
-BS12,https://mt01.utako.moe/bs12/index.m3u8
-NHK BS4K,https://mt01.utako.moe/bsp4k/index.m3u8
-BS TV Tokyo 4K (test),https://mt01.utako.moe/bstx4k/index.m3u8
-WOWOW Prime,https://mt01.utako.moe/wprime/index.m3u8
-WOWOW Cinema,https://mt01.utako.moe/wcinema/index.m3u8
-WOWOW Live,https://mt01.utako.moe/wlive/index.m3u8
-BS 10 Star Channel,https://mt01.utako.moe/bs10_star/index.m3u8
-JSport 1,https://mt01.utako.moe/js1/index.m3u8
-JSport 2,https://mt01.utako.moe/js2/index.m3u8
-JSport 3,https://mt01.utako.moe/js3/index.m3u8
-JSport 4,https://mt01.utako.moe/js4/index.m3u8
-Green Channel,https://mt01.utako.moe/green/index.m3u8
-Animax,https://mt02.utako.moe/Animax/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="nhkg.jp" tvg-name="NHK G" group-title="日本频道",NHK G
+https://mt01.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 tvg-id="nhke.jp" tvg-name="NHK E" group-title="日本频道",NHK E
+https://mt01.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 tvg-id="ntv.jp" tvg-name="NTV" group-title="日本频道",NTV
+https://mt01.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 tvg-id="tbs.jp" tvg-name="TBS" group-title="日本频道",TBS
+https://mt01.utako.moe/TBS/index.m3u8
+#EXTINF:-1 tvg-id="fujitv.jp" tvg-name="Fuji TV" group-title="日本频道",Fuji TV
+https://mt01.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 tvg-id="tvasahi.jp" tvg-name="TV Asahi" group-title="日本频道",TV Asahi
+https://mt01.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 tvg-id="tvtokyo.jp" tvg-name="TV Tokyo" group-title="日本频道",TV Tokyo
+https://mt01.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 tvg-id="tokyomx1.jp" tvg-name="TOKYO MX1" group-title="日本频道",TOKYO MX1
+https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 tvg-id="tokyomx2.jp" tvg-name="TOKYO MX2" group-title="日本频道",TOKYO MX2
+https://mt01.utako.moe/Tokyo_MX2/index.m3u8
+#EXTINF:-1 tvg-id="mbs.jp" tvg-name="MBS" group-title="日本频道",MBS
+https://mt01.utako.moe/mbs/index.m3u8
+#EXTINF:-1 tvg-id="abc.jp" tvg-name="ABC" group-title="日本频道",ABC
+https://mt01.utako.moe/abc/index.m3u8
+#EXTINF:-1 tvg-id="tvo.jp" tvg-name="TV Osaka" group-title="日本频道",TV Osaka
+https://mt01.utako.moe/tvo/index.m3u8
+#EXTINF:-1 tvg-id="kansaitv.jp" tvg-name="Kansai TV" group-title="日本频道",Kansai TV
+https://mt01.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 tvg-id="ytv.jp" tvg-name="ytv" group-title="日本频道",ytv
+https://mt01.utako.moe/ytv/index.m3u8
+#EXTINF:-1 tvg-id="kbs.jp" tvg-name="KBS" group-title="日本频道",KBS
+https://mt01.utako.moe/kbs/index.m3u8
+#EXTINF:-1 tvg-id="suntv.jp" tvg-name="SUN" group-title="日本频道",SUN
+https://mt01.utako.moe/suntv/index.m3u8
+#EXTINF:-1 tvg-id="nhkbs1.jp" tvg-name="NHK BS" group-title="日本频道",NHK BS
+https://mt01.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 tvg-id="bs-ntv.jp" tvg-name="BS NTV" group-title="日本频道",BS NTV
+https://mt01.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 tvg-id="bs-asahi.jp" tvg-name="BS Asahi" group-title="日本频道",BS Asahi
+https://mt01.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 tvg-id="bs-tbs.jp" tvg-name="BS TBS" group-title="日本频道",BS TBS
+https://mt01.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 tvg-id="bs-tvtokyo.jp" tvg-name="BS TV Tokyo" group-title="日本频道",BS TV Tokyo
+https://mt01.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 tvg-id="bs-fuji.jp" tvg-name="BS Fuji" group-title="日本频道",BS Fuji
+https://mt01.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 tvg-id="bs10.jp" tvg-name="BS10" group-title="日本频道",BS10
+https://mt01.utako.moe/bs10/index.m3u8
+#EXTINF:-1 tvg-id="bs11.jp" tvg-name="BS11" group-title="日本频道",BS11
+https://mt01.utako.moe/BS11/index.m3u8
+#EXTINF:-1 tvg-id="bs12.jp" tvg-name="BS12" group-title="日本频道",BS12
+https://mt01.utako.moe/bs12/index.m3u8
+#EXTINF:-1 tvg-id="nhkbs4k.jp" tvg-name="NHK BS4K" group-title="日本频道",NHK BS4K
+https://mt01.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 tvg-id="bs-tvtokyo4k.jp" tvg-name="BS TV Tokyo 4K" group-title="日本频道",BS TV Tokyo 4K (test)
+https://mt01.utako.moe/bstx4k/index.m3u8
+#EXTINF:-1 tvg-id="wowowprime.jp" tvg-name="WOWOW Prime" group-title="日本频道",WOWOW Prime
+https://mt01.utako.moe/wprime/index.m3u8
+#EXTINF:-1 tvg-id="wowowcinema.jp" tvg-name="WOWOW Cinema" group-title="日本频道",WOWOW Cinema
+https://mt01.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 tvg-id="wowowlive.jp" tvg-name="WOWOW Live" group-title="日本频道",WOWOW Live
+https://mt01.utako.moe/wlive/index.m3u8
+#EXTINF:-1 tvg-id="bs10star.jp" tvg-name="BS 10 Star Channel" group-title="日本频道",BS 10 Star Channel
+https://mt01.utako.moe/bs10_star/index.m3u8
+#EXTINF:-1 tvg-id="jsports1.jp" tvg-name="JSport 1" group-title="日本频道",JSport 1
+https://mt01.utako.moe/js1/index.m3u8
+#EXTINF:-1 tvg-id="jsports2.jp" tvg-name="JSport 2" group-title="日本频道",JSport 2
+https://mt01.utako.moe/js2/index.m3u8
+#EXTINF:-1 tvg-id="jsports3.jp" tvg-name="JSport 3" group-title="日本频道",JSport 3
+https://mt01.utako.moe/js3/index.m3u8
+#EXTINF:-1 tvg-id="jsports4.jp" tvg-name="JSport 4" group-title="日本频道",JSport 4
+https://mt01.utako.moe/js4/index.m3u8
+#EXTINF:-1 tvg-id="greench.jp" tvg-name="Green Channel" group-title="日本频道",Green Channel
+https://mt01.utako.moe/green/index.m3u8
+#EXTINF:-1 tvg-id="animax.jp" tvg-name="Animax" group-title="日本频道",Animax
+https://mt02.utako.moe/Animax/index.m3u8
+#EXTINF:-1 tvg-id="nihoneiga.jp" tvg-name="Nihon Eiga Senmon" group-title="日本频道",Nihon Eiga Senmon
+https://mt02.utako.moe/nihoneiga/index.m3u8
+#EXTINF:-1 tvg-id="skya.jp" tvg-name="Sky A" group-title="日本频道",Sky A
+https://mt02.utako.moe/skya/index.m3u8
+#EXTINF:-1 tvg-id="gaora.jp" tvg-name="Gaora Sports" group-title="日本频道",Gaora Sports
+https://mt01.utako.moe/gaora/index.m3u8
+#EXTINF:-1 tvg-id="atx.jp" tvg-name="AT-X" group-title="日本频道",AT-X
+https://mt01.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 tvg-id="spaceshower.jp" tvg-name="Space Shower TV" group-title="日本频道",Space Shower TV
+https://mt02.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 tvg-id="mtv.jp" tvg-name="MTV" group-title="日本频道",MTV
+https://mt02.utako.moe/mtv/index.m3u8
+#EXTINF:-1 tvg-id="kayopops.jp" tvg-name="Kayo Pops" group-title="日本频道",Kayo Pops
+https://mt02.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 tvg-id="disneychannel.jp" tvg-name="Disney Channel" group-title="日本频道",Disney Channel
+https://mt02.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.jp" tvg-name="Cartoon Network Japan" group-title="日本频道",Cartoon Network Japan
+https://mt02.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 tvg-id="nittelegplus.jp" tvg-name="Nittele G+" group-title="日本频道",Nittele G+
+https://mt02.utako.moe/ntvgplus/index.m3u8
+#EXTINF:-1 tvg-id="familygeki.jp" tvg-name="Family Gekijyo" group-title="日本频道",Family Gekijyo
+https://mt02.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 tvg-id="mondotv.jp" tvg-name="Mondo TV" group-title="日本频道",Mondo TV
+https://mt02.utako.moe/mondo/index.m3u8
+#EXTINF:-1 tvg-id="tbsch1.jp" tvg-name="TBS Channel 1" group-title="日本频道",TBS Channel 1
+https://mt02.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 tvg-id="tbsch2.jp" tvg-name="TBS Channel 2" group-title="日本频道",TBS Channel 2
+https://mt02.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 tvg-id="exch1.jp" tvg-name="TV Asahi Channel 1" group-title="日本频道",TV Asahi Channel 1
+https://mt02.utako.moe/ex_ch1/index.m3u8
+#EXTINF:-1 tvg-id="exch2.jp" tvg-name="TV Asahi Channel 2" group-title="日本频道",TV Asahi Channel 2
+https://mt02.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 tvg-id="fujione.jp" tvg-name="Fuji TV ONE" group-title="日本频道",Fuji TV ONE
+https://mt02.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 tvg-id="fujitwo.jp" tvg-name="Fuji TV TWO" group-title="日本频道",Fuji TV TWO
+https://mt02.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 tvg-id="fujinext.jp" tvg-name="Fuji TV NEXT" group-title="日本频道",Fuji TV NEXT
+https://mt02.utako.moe/fuji_next/index.m3u8
+#EXTINF:-1 tvg-id="neco.jp" tvg-name="Neco Channel" group-title="日本频道",Neco Channel
+https://mt02.utako.moe/neco/index.m3u8
+#EXTINF:-1 tvg-id="dlife.jp" tvg-name="Dlife" group-title="日本频道",Dlife
+https://mt02.utako.moe/dlife/index.m3u8
+#EXTINF:-1 tvg-id="toei.jp" tvg-name="Toei Channel" group-title="日本频道",Toei Channel
+https://mt02.utako.moe/toei/index.m3u8
+#EXTINF:-1 tvg-id="samurai.jp" tvg-name="Fighting TV Samurai" group-title="日本频道",Fighting TV Samurai
+https://mt02.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 tvg-id="entermeitele.jp" tvg-name="Entermei Tele" group-title="日本频道",Entermei Tele
+https://mt02.utako.moe/entermei_tele/index.m3u8
+#EXTINF:-1 tvg-id="sportliveplus.jp" tvg-name="Sport Live Plus" group-title="日本频道",Sport Live Plus
+https://mt02.utako.moe/sport_live_plus/index.m3u8
+#EXTINF:-1 tvg-id="homedrama.jp" tvg-name="Home Drama Channel" group-title="日本频道",Home Drama Channel
+https://mt02.utako.moe/homedrama/index.m3u8
+#EXTINF:-1 tvg-id="ginga.jp" tvg-name="Channel Ginga" group-title="日本频道",Channel Ginga
+https://mt02.utako.moe/gingach/index.m3u8
+#EXTINF:-1 tvg-id="tabi.jp" tvg-name="Tabi Channel" group-title="日本频道",Tabi Channel
+https://mt02.utako.moe/tabi/index.m3u8
+#EXTINF:-1 tvg-id="pigoo.jp" tvg-name="Pigoo (NSFW)" group-title="日本频道",Pigoo (NSFW)
+https://mt02.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 tvg-id="vparadise.jp" tvg-name="V Paradise (NSFW)" group-title="日本频道",V Paradise (NSFW)
+https://mt02.utako.moe/v_paradise/index.m3u8Animax,https://mt02.utako.moe/Animax/index.m3u8
 Nihon Eiga Senmon,https://mt02.utako.moe/nihoneiga/index.m3u8
 Sky A,https://mt02.utako.moe/skya/index.m3u8
 Gaora Sports,https://mt01.utako.moe/gaora/index.m3u8
